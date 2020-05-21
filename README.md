@@ -1,6 +1,6 @@
 # RomanNumerals
 
-I spent approximately 3 hrs 50 minutes on this challenge. I finished the main coding in 2 hrs 30 minutes and chose to spend the rest of my time debugging, finding out more about roman numerals and their rules, and organising my code in order to make my solution as accurate and readable as possible.
+I spent approximately 3 hrs 50 minutes on this challenge. I finished the main coding in 2 hrs 30 minutes and chose to spend the rest of my time debugging, discovering more about roman numerals and their rules, and organising my code in order to make my solution as accurate and readable as possible.
 
 I coded and ran this code in Microsoft Visual Studio on Windows.
 
